@@ -1,0 +1,30 @@
+/* color name */
+h1{
+    color: tomato;
+}
+/* hex code */
+/* h1{
+    color: #783207;
+} */
+/* RGB */
+/* h1{
+    color: rgb(23, 70, 40);
+} */
+/*background color*/
+/* body{
+    background-color: #232950;
+    color: wheat;
+} */
+/* div{
+    background-color: aqua;
+    color: red;
+} */
+/* opacity */
+/* div{
+    background-color: green;
+    opacity: 0.5;
+} */
+/* opacity img */
+/* img{
+    opacity: 0.1;
+} */
